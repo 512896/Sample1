@@ -1,0 +1,17 @@
+{
+  "name": "bucket",
+  "version": "1.0.0",
+  "description": "startup",
+  "main": "app.js",
+  "dependencies": {
+    "body-parser": "^1.15.2",
+    "express": "^4.14.0",
+    "mongoose": "^4.5.4"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "hello world"
+  },
+  "author": "",
+  "license": "ISC"
+}
